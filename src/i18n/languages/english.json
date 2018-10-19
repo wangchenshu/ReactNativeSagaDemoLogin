@@ -1,0 +1,15 @@
+{
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "logout": "Logout",
+    "home": "Home",
+    "name": "Name",
+    "back": "Back",
+    "welcome": "Welcome",
+    "loginSuccess": "Login Success",
+    "loginFail": "Login Fail",
+    "loginAgain": "Login Again",
+    "inputEmail": "Input E-Mail",
+    "inputPassword": "Input Password"
+}

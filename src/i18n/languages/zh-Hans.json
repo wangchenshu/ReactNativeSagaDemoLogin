@@ -1,0 +1,15 @@
+{
+    "email": "电子邮件",
+    "password": "密码",
+    "login": "登入",
+    "logout": "登出",
+    "home": "首页",
+    "name": "姓名",
+    "back": "回上一页",
+    "welcome": "欢迎",
+    "loginSuccess": "登入成功",
+    "loginFail": "登入失败",
+    "loginAgain": "请重新登入",
+    "inputEmail": "请输入电子邮件",
+    "inputPassword": "请输入密码"
+}
