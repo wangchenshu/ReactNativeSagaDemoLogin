@@ -1,7 +1,7 @@
+import I18n from 'react-native-i18n'
 import { StackNavigator } from 'react-navigation'
 import HomeScreen from '../containers/Home'
 import LoginScreen from '../containers/Login'
-import I18n from 'react-native-i18n'
 import styles from './styles/NavigationStyles'
 
 const PrimaryNav = StackNavigator({

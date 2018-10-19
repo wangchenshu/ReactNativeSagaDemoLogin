@@ -11,5 +11,7 @@
     "loginFail": "登入失败",
     "loginAgain": "请重新登入",
     "inputEmail": "请输入电子邮件",
-    "inputPassword": "请输入密码"
+    "inputPassword": "请输入密码",
+    "changeToEnglish": "改到英文语系",
+    "changeToChinese": "改到中文语系"
 }

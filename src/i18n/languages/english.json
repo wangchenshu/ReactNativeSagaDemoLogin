@@ -11,5 +11,7 @@
     "loginFail": "Login Fail",
     "loginAgain": "Login Again",
     "inputEmail": "Input E-Mail",
-    "inputPassword": "Input Password"
+    "inputPassword": "Input Password",
+    "changeToEnglish": "Change to english",
+    "changeToChinese": "Change to chinese"
 }

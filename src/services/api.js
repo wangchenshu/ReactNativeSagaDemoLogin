@@ -5,7 +5,7 @@ import Config from 'react-native-config';
 class API{
   constructor() {
     this.api = axios.create({
-      baseURL: 'http://locahost:8080',
+      baseURL: 'http://localhost:8080',
       headers: {
         'Content-Type': 'application/json',
         'Cache-Control': 'no-cache',
